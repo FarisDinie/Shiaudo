@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi there 👋 I'm Sau
 
-<!--
-**Shiaudo/Shiaudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Currently studying Information Technology
+🌱 Currently learning Networking, Data Structures & Web Development
+💻 Interested in Software Development, Cybersecurity & Networking
+🚀 Working on university and personal coding projects
+📚 Always exploring new technologies and improving my skills
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+### Languages
+
+* Java
+* HTML
+* CSS
+* JavaScript
+* SQL
+
+### Tools & Technologies
+
+* Cisco Packet Tracer
+* Git & GitHub
+* VS Code
+* MySQL
+
+---
+
+## 📌 Current Projects
+
+* 🌿 Eco-Friendly Travel Planner
+* 💙 Mental Wellness Tracker
+* 🖧 Networking & VLAN Configuration Labs
+
+---
+
+## 📈 GitHub Stats
+
+![Sau's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shiaudo\&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiaudo\&layout=compact)
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/Shiaudo
+* LinkedIn: *(add your LinkedIn link here)*
+
+---
+
+> “Keep learning, keep building.” 🚀

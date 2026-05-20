@@ -35,18 +35,10 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Sau's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shiaudo\&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiaudo\&layout=compact)
-
----
-
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/Shiaudo
-* LinkedIn: *(add your LinkedIn link here)*
+* LinkedIn: www.linkedin.com/in/muhammad-faris-dinie-8852b2401
 
 ---
 

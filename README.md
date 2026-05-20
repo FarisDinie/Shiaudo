@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Sau
+# Hi there 👋 I'm Faris Dinie
 
 🎓 Currently studying Information Technology
 🌱 Currently learning Networking, Data Structures & Web Development

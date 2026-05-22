@@ -37,7 +37,7 @@
 
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/Shiaudo
+* GitHub: https://github.com/FarisDinie
 * LinkedIn: www.linkedin.com/in/muhammad-faris-dinie-8852b2401
 
 ---
